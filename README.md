@@ -1,5 +1,4 @@
 # Multiclass Cardiac Arrhythmia Detection from Pre-Segmented ECG Signals  
-### Using Machine Learning and Deep Learning Techniques
 
 ## Overview
 This project focuses on the automated classification of heartbeats from pre-segmented ECG signals using both classical machine learning and deep learning approaches.  
